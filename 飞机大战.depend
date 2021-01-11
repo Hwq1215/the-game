@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610372386 source:d:\编程项目\飞机大战\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+
